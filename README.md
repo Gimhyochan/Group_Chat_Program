@@ -17,3 +17,15 @@
 
 
 
+##### Compile
+
+```
+javac Init.java
+```
+
+##### Usage
+
+```
+java Init
+```
+
