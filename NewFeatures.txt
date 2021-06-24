@@ -1,0 +1,9 @@
+Version 1.0 Dev
+This text file is locate in ~/Chatting Program/NewFeatures.txt
+Symbolic link in ~/Chatting Program/src/NewFeatures.txt
+
+- Multi-Party Chatting Room
+- Server Creates Chatting log (~/Chatting Program/src/$(DATE-TIME).log)
+- Do not swear 😊
+- Exit Chatting Room by 'EXIT'
+
